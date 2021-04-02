@@ -5,7 +5,7 @@
 
 title: Bin Deng # Website name
 baseurl: 'https://bindeng.netlify.app/' # Website URL
-copyright: '@ {2021} Bin Deng' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright @ 2021 Bin Deng. All Rights Reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
