@@ -28,7 +28,7 @@ experience:
     location: Guangzhou
     date_start: '2019-05-20'
     date_end: '2020-08-30'
-    description: Research direction: domain adaptation
+    description: Research direction to be domain adaptation
     
   - title: Research Assistant
     company: Shenzhen University
@@ -36,5 +36,5 @@ experience:
     location: Shenzhen
     date_start: '2018-07-16'
     date_end: '2019-05-08'
-    description: Research direction: hyperspectral image classification
+    description: Research direction to be hyperspectral image classification
 ---
