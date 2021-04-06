@@ -29,8 +29,8 @@ item:
   description: Only 256 graduate students award in guangdong province in the year 2018.
   organization: Department of Education of Guangdong Province
   organization_url: http://edu.gd.gov.cn/
-  title: 'Outstanding Students of Guangdong Province for the 2017-2018 academic year (Graduate level)'
-  url: "http://edu.gd.gov.cn//gkmlpt/content/2/2103/post_2103138.html#0"
+  title: Outstanding Students of Guangdong Province for the 2017-2018 academic year (Graduate level)
+  url: http://edu.gd.gov.cn//gkmlpt/content/2/2103/post_2103138.html#0
  - certificate_url: ""
   date_end: ""
   date_start: "2017-10-01"
