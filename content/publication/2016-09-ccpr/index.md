@@ -36,14 +36,14 @@ summary: Chinese Conference on Pattern Recognition (CCPR), 2016
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'extension://oikmahiipjniocckomdccmplodldodja/pdf-viewer/web/viewer.html?file=https%3A%2F%2Flink.springer.com%2Fcontent%2Fpdf%2F10.1007%252F978-981-10-3005-5_2.pdf'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-981-10-3005-5_2#citeas'
 url_code: ''
 url_dataset: ''
 url_poster: ''
