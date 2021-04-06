@@ -26,8 +26,8 @@ publishDate: "2017-06-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *International Journal of Wavelets, Multiresolution and Information Processing*
-publication_short: *IJVML*
+publication: In *International Journal of Wavelets, Multiresolution and Information Processing*
+publication_short: In *IJVML*
 
 abstract: As a powerful classifier, sparse representation-based classification (SRC) has successfully been applied in various visual recognition problems. However, due to the highly correlated bands and insufficient training samples of hyperspectral image (HSI) data, it still remains a challenging problem to effectively apply SRC in HSI. Considering the rich information of spatial structure of materials in HSI, that means the adjacent pixels belong to the same class with a high probability, in this paper, we propose an efficient superpixel-based sparse representation framework for HSI classification. Each superpixel can be regarded as a small region consisting of a number of pixels with similar spectral characteristics. The proposed framework utilizes superpixel to exploit spatial information which can greatly improve classification accuracy. Specifically, SRC is firstly used to classify the HSI data. Meanwhile, an efficient segmentation algorithm is applied to divide the HSI into many disjoint superpixels. Then, each superpixel is used to fuse the SRC classification results in superpixel level. Experimental results on two real-world HSI data sets have shown that the proposed superpixel-based SRC (SP-SRC) framework has a significant improvement over the pixel-based SRC method.
 
