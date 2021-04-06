@@ -28,8 +28,7 @@ experience:
     location: Guangzhou
     date_start: '2019-05-20'
     date_end: '2020-08-30'
-    description: |2-
-        Research direction: domain adaptation
+    description: Research direction: domain adaptation
     
   - title: Research Assistant
     company: Shenzhen University
