@@ -32,7 +32,7 @@ publication_short: In *IGARSS*
 abstract: Sparse representation-based classification (SRC) assigns a test sample to the class with minimal representation error via a sparse linear combination of all the training samples, which has successfully been applied to hyperspectral imagery (HSI). Meanwhile, spatial information, that means the adjacent pixels belong to the same class with a high probability, is a valuable complement to the spectral information. In this paper, we propose an efficient method for HSI classification by using superpixel based sparse representation-based classification (SP-SRC). One superpixel can be regarded as a small region consisting of a number of pixels with similar spectral characteristics. The novel method utilizes superpixel to exploit spatial information which can greatly improve classification accuracy. Specifically, SRC is firstly used to classifier the HSI. Then an efficient segmentation algorithm is adopted to divide the HSI into disjoint superpixels. Finally, each superpixel is used to fuse the results of the SRC classifier. Experimental results on the widely-used Indian Pines hyperspectral imagery have shown that the proposed SP-SRC approach could achieve better performance than the pixel-wise SRC method.
 
 # Summary. An optional shortened abstract.
-summary: Sparse representation-based classification for HSI in superpixel level.
+summary: IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2016
 
 tags: []
 
