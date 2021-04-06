@@ -31,7 +31,7 @@ item:
   organization_url: http://edu.gd.gov.cn/
   title: Outstanding Students of Guangdong Province for the 2017-2018 academic year (Graduate level)
   url: http://edu.gd.gov.cn//gkmlpt/content/2/2103/post_2103138.html#0
- - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2017-10-01"
   description: ""
@@ -39,7 +39,7 @@ item:
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship
   url: ""
- - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2018-06-30"
   description: ""
