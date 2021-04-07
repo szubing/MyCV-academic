@@ -38,8 +38,8 @@ summary: Application publication number, CN109472199A
 
 tags: []
 
-# Display this page in the pages widget?
-pages: false
+# Display this page in the featured widget?
+featured: true
 
 # Custom links (uncomment lines below)
 links:
