@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: patent
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: patent
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Filter on criteria
   filters:
     author: ""
