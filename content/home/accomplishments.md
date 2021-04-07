@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: "2018-06-30"
   date_start: "2017-09-01"
-  description: Only 256 graduate students award in guangdong province in the year 2018.
+  description: Only 256 graduate students award in Guangdong province in the year 2018.
   organization: Department of Education of Guangdong Province
   organization_url: http://edu.gd.gov.cn/
   title: Outstanding Students of Guangdong Province for the 2017-2018 academic year (Graduate level)
@@ -45,6 +45,6 @@ item:
   description: ""
   organization: Shenzhen University
   organization_url: https://www.szu.edu.cn/
-  title: Outstanding graduates
+  title: Outstanding Graduates
   url: ""
 ---
