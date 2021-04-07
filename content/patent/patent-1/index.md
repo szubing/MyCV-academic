@@ -29,7 +29,7 @@ publication_types: ["8"]
 publication: ""
 publication_short: ""
 
-abstract: 本发明适用于图像处理领域,提供了一种基于超像素级信息融合的高光谱图像的分类方法及系统,旨在解决现有的分类方法计算复杂度高、分类精度较低以及波段间存在较大冗余的问题。所述方法包括下述步骤：滤波器生成步骤、Gabor特征提取步骤、高光谱图像超像素分割步骤、超像素特征数据计算步骤、超像素空间坐标计算步骤、数据降维步骤、高光谱特征数据生成步骤以及多任务支持向量机分类步骤。
+abstract: '本发明适用于图像处理领域,提供了一种基于超像素级信息融合的高光谱图像的分类方法及系统,旨在解决现有的分类方法计算复杂度高、分类精度较低以及波段间存在较大冗余的问题。所述方法包括下述步骤：滤波器生成步骤、Gabor特征提取步骤、高光谱图像超像素分割步骤、超像素特征数据计算步骤、超像素空间坐标计算步骤、数据降维步骤、高光谱特征数据生成步骤以及多任务支持向量机分类步骤。'
 
 # Summary. An optional shortened abstract.
 summary: Authorized publication number, CN106469316B  
@@ -38,7 +38,7 @@ tags: []
 
 # Custom links (uncomment lines below)
 links: 
-- name: Custom Link
+- name: CNKI Link
   url: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN106469316B&v=3oUfNTcOeprPSizjC6vVGuxwx3fHoY5JhZqwDSBmMppbWX%25mmd2BzJDPLzPRF4lIivEPF'
 
 url_pdf: ''
