@@ -6,7 +6,7 @@ title: "DETECT: A Deep Discriminative Clustering Baseline for Unsupervised and U
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Yain Zhang
+- Yabin Zhang
 - Kui Jia
 
 # Author notes (optional)
