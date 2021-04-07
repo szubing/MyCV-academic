@@ -10,8 +10,7 @@ authors:
 - Daming Shi
 
 # Author notes (optional)
-author_notes:
-- "Supervisor"
+# author_notes:
 
 date: "2019-10-30T00:00:00Z"
 doi: "10.1109/TGRS.2019.2946318"
