@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Patent
+  - name: Patents
     url: '#patents'
     weight: 30
   - name: Adwards
