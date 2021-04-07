@@ -31,7 +31,7 @@ publication_short: ""
 abstract: Given a set of labeled instances on a source domain, unsupervised domain adaptation (UDA) aims to learn a prediction function to classify instances in a shifted, target domain. Depending on the degrees of overlap between the label spaces of the two domains, the problem variants of UDA range from the classical, closed set setting to the most general --- arguably the most challenging --- setting of universal domain adaptation. In this work, we argue that no matter what the degree of label space overlap, the problem nature of UDA remains unchanged when it comes to learning the intrinsic discrimination of target data in an unsupervised manner, regularized by the labeled discrimination of source data in an unknown but shared label space, and we argue that this regularization should not overwhelm the learning of a target prediction function. To this end, we propose a simple but strong baseline of neighborhooD-prEserved deep discriminaTivE ClusTering ($DETECT$) for UDA, whose design complies with the above learning principles. We conduct thorough experiments that verify the efficacy of constituent components in $DETECT$ across a range of label space overlaps. Such a simple baseline also outperforms all existing methods on four UDA benchmarks.
 
 # Summary. An optional shortened abstract.
-summary: Technique Report, 2020-06-15
+summary: Technical Report, 2020-06-15
 
 tags: []
 
