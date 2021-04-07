@@ -37,7 +37,7 @@ summary: Authorized publication number, CN106469316B
 tags: []
 
 # Custom links (uncomment lines below)
-links: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN106469316B&v=3oUfNTcOeprPSizjC6vVGuxwx3fHoY5JhZqwDSBmMppbWX%25mmd2BzJDPLzPRF4lIivEPF'
+# links: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN106469316B&v=3oUfNTcOeprPSizjC6vVGuxwx3fHoY5JhZqwDSBmMppbWX%25mmd2BzJDPLzPRF4lIivEPF'
 # - name: Custom Link
 # url: ''
 
