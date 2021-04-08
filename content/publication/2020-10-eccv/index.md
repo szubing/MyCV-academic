@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007%2F978-3-030-58548-8_45'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007%2F978-3-030-58548-8_45.pdf'
 url_code: 'https://github.com/YBZh/Label-Propagation-with-Augmented-Anchors'
 url_dataset: ''
 url_poster: ''
