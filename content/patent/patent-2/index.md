@@ -34,14 +34,14 @@ publication_short: ""
 abstract: 本发明提供了一种图像融合分类的方法及装置,所述方法包括：利用支持向量机分类器获得高光谱图像的三维权重矩阵；对所述高光谱图像进行超像素分割,以得到K个超像素图,其中,K为正整数；利用所述超像素图的分割法所述三维权重矩阵进行正则化以获得正则矩阵；根据所述正则矩阵确定样本所属的类别。通过使用本发明提供的方法,能够避免超像素个数的估计问题,进一步的,通过级联的方式融合不同超像素图包含的地物空间结构信息,显著提升了特征的判别力。
 
 # Summary. An optional shortened abstract.
-summary: Application publication number, CN109472199A   
+summary: Authorized publication number, CN109472199B  
 
 tags: []
 
 # Custom links (uncomment lines below)
 links:
 - name: CNKI Link
-  url: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109472199A&v=gepdA6bixzDgenQ4LuoV2rTLzffFHXWMBNVPgTbVcsYzH1dJsJvwLhubZwxcO8iT
+  url: https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0MCwEE7HUguYV47V0TePZoBLIBmgMAUioZ4TIqP_XTGBYhKnghdQqkyEBN3D7hOcZ&uniplatform=NZKPT
   
 url_pdf: ''
 url_code: ''
