@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I joined [Geometric Perception and Intelligence Research (Gorilla) Lab](https://www.scut-gpi.cn/), in 2019. I am a Ph.D student supervised by [Prof. Kui Jia](http://kuijia.site/). I received Master degree from Shenzhen University. I worked on hypespectral image processing (classification) with Prof. Sen Jia and Prof. Daming Shi. My current research focuses on robust pattern recognition and adatable machine learning.
+I joined [Geometric Perception and Intelligence Research (Gorilla) Lab](https://www.scut-gpi.cn/), in 2019. I am a Ph.D student supervised by [Prof. Kui Jia](http://kuijia.site/). I received Master degree from Shenzhen University. I worked on hypespectral image processing (classification) with Prof. Sen Jia and Prof. Daming Shi. My current research focuses on out-of-distribution (OOD) generalization, robust pattern recognition, and adatable machine learning. I am also a reviewer for many top conferences and journals, including ICML, ICCV, TIP, TMLR, IEEE J-STARS, GRSL etc.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
