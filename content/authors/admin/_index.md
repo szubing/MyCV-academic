@@ -6,12 +6,12 @@ title: Bin Deng
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Student
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  South China University of Technology
-  url: https://www.scut.edu.cn/en/
+- name:  Wuyi University
+  url: https://www.wyu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include hyperspectral image processing, pattern recognition and machine learning.
@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Information and Communication Engineering
     institution: South China University of Technology
-    year: 2020 - Now
+    year: 2020 - 2024
   - course: MEng in Pattern Recognition and Intelligent System
     institution: ShenZhen University
     year: 2015 - 2018
@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I joined [Geometric Perception and Intelligence Research (Gorilla) Lab](https://www.scut-gpi.cn/), in 2019. I am a Ph.D student supervised by [Prof. Kui Jia](http://kuijia.site/). I received Master degree from Shenzhen University. I worked on hypespectral image processing (classification) with [Prof. Sen Jia](http://jiasen.tech/jiasen/) and Prof. Daming Shi. My current research focuses on out-of-distribution (OOD) generalization, robust pattern recognition, and adaptable machine learning. I am also a reviewer for many top conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, TIP, TMLR, IEEE TGRS, IEEE J-STARS, GRSL etc.
+I am currently a lecturer at Wuyi University. I obtained my Ph.D. from the South China University of Technology in 2024, under the supervision of [Prof. Kui Jia](http://kuijia.site/), and my Master's degree from Shenzhen University in 2018, under the guidance of [Prof. Sen Jia](http://jiasen.tech/jiasen/). My research interests include out-of-distribution (OOD) generalization, robust pattern recognition, and adaptable machine learning. I also serve as a reviewer for several top conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, TMLR, IEEE TIP, IEEE TGRS, IEEE J-STARS, and IEEE GRSL.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Bin Deng.pdf" "newtab" >}}CV{{< /staticref >}}.
