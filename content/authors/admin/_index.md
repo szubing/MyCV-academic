@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a lecturer at Wuyi University. I obtained my Ph.D. from the South China University of Technology in 2024, under the supervision of [Prof. Kui Jia](http://kuijia.site/), and my Master's degree from Shenzhen University in 2018, under the supervision of [Prof. Sen Jia](http://jiasen.tech/jiasen/). My current research interests include out-of-distribution (OOD) generalization, robust pattern recognition, and adaptable machine learning. I also serve as a reviewer for several top conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, TMLR, IEEE TIP, IEEE TGRS, IEEE J-STARS, and IEEE GRSL.
+I am currently a lecturer at Wuyi University. I obtained my Ph.D. from the South China University of Technology in 2024, under the supervision of [Prof. Kui Jia](http://kuijia.site/), and my Master's degree from Shenzhen University in 2018, under the supervision of [Prof. Sen Jia](http://jiasen.tech/jiasen/). My current research interests include out-of-distribution (OOD) generalization, robust pattern recognition, and adaptable machine learning. I also serve as a reviewer for several top conferences and journals, including ICML, NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, TMLR, IEEE TIP, IEEE TGRS, IEEE J-STARS, and IEEE GRSL.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_BinDeng.pdf" "newtab" >}}CV(English){{< /staticref >}} or {{< staticref "media/Chinese_CV.pdf" "newtab" >}}简历（中文）{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_BinDeng.pdf" "newtab" >}}CV (English){{< /staticref >}} or {{< staticref "media/Chinese_CV.pdf" "newtab" >}}简历（中文）{{< /staticref >}}.
